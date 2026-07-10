@@ -3,7 +3,7 @@
 A rigid, professional dark-themed desktop application interface built using **Python**, **Tkinter**, and **Qiskit** to simulate single-qubit quantum mechanics states on a high-DPI Bloch Sphere projection model.
 
 ## Interface Preview
-![Simulator Dashboard](assets/user_interface.png)
+![Simulator Dashboard](user_interface.png)
 
 ## Core Features
 * **Dynamic Matrix Calculation:** Calculates exact state probabilities for $|0\rangle$ and $|1\rangle$ based on statevector instructions.
